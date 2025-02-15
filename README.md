@@ -23,5 +23,7 @@ The dataset consists of four tables:
 
 ## 📂 File Structure  
 📂 Project
+
 ├── 📄 README.md
+
 ├── 📂 SQL Queries
